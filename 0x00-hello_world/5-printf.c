@@ -1,3 +1,4 @@
+/* first printf */
 #include <stdio.h>
 	int main(void)
 {
