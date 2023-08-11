@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - entry point
+ * main - entry point using puts function
  * description: puts a string
  * Return: (0) success
  */
