@@ -1,18 +1,23 @@
 #include <stdio.h>
 
 /**
- * main - Entry Point
+ * main - Entry point
  *
- * Return: 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
-
 {
-	char c;
+	char low, e, q;
 
-	for (c = 'a'; c <= 'z'; c != 'e'; c != 'q'; c++)
-		putchar ('c');
+	e = 'e';
+	q = 'q';
+
+	for (low = 'a'; low <= 'z'; low++)
+	{
+		if (low != e && low != q)
+			putchar(low);
+	}
 	putchar('\n');
 
 	return (0);
