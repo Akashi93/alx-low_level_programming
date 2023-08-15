@@ -9,6 +9,7 @@
 */
 
 int _putchar(void)
+
 {
 	_putchar('_');
 	_putchar('p');
@@ -19,5 +20,5 @@ int _putchar(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar("\n");
-return (0);
+	return (0);
 }
