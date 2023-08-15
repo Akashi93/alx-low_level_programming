@@ -1,6 +1,6 @@
 #include "main.h"
 
-int _putchar(void)
+int _putchar(char c)
 {
     _putchar('_');
     _putchar('p');
