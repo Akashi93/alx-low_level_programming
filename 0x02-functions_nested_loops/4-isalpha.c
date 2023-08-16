@@ -7,7 +7,7 @@
 *Return: 1 if alphabet else prints 0
 */
 
-int _isalpha(int c);
+int _isalpha(int c)
 {
 
 	for ((c = 'a' && c <= 'z') || (c = 'A' && c <= 'Z'))
