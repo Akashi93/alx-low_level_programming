@@ -2,8 +2,8 @@
 
 /**
 *_isupper - Checks for uppercase
-*@c: character to be checked
 *Description: Checks for uppercase characters
+*@c: character checked
 *Return: 1 if uppercase else 0
 */
 

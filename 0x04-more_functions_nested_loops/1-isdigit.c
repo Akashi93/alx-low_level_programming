@@ -2,8 +2,8 @@
 
 /**
 *_isdigit - Checks for digits
-*@c: Digit Checked
 *Description: Checks for digits
+*@c: Character checked
 *Return: 1 If digit else 0
 */
 
