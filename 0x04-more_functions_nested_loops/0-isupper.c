@@ -2,9 +2,12 @@
 
 /**
 *_isupper - Checks for uppercase
-*Description: Checks for uppercase characters
-*@c: Character checked
-*Return: 1 if uppercase else 0
+*
+* Description: Checks for uppercase characters
+*
+* @c: Character checked
+*
+* Return: 1 if uppercase else 0
 */
 
 int _isupper(int c)
